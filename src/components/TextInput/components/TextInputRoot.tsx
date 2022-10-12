@@ -13,5 +13,3 @@ export const TextInputRoot: React.FC<TextInputRootProps> = (props) => {
     </div>
   );
 };
-
-TextInputRoot.displayName = "TextInput.Root";
